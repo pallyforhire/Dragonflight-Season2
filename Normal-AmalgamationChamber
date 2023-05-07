@@ -1,0 +1,30 @@
+Amalgamation Chamber
+--------------------------------------------------------
+|cffff7c0a--HERO IN P2--|r
+1. Get adds to 50% at same time
+2. Swap sides to manage stacks
+3. Keep Adds more than 25yds apart
+
+{p1}--------------------
+|cff00ff00<Phase 1>|r
+|cffff00ff[Shadow Elemental]|r
+ -|cffffff00Umbral Detonation|r > take to a wall
+ -|cffffff00Coalescing Void|r > avoid fall-off dmg
+|cffee5555Heroic:|r Avoid collapsing purple orbs
+
+|cffff00ff[Fire Elemental]|r
+ -|cffffff00Swirling Flame|r > dodge tornados
+ -|cffffff00Fiery Meteor|r > group soak
+|cffee5555Heroic:|r |cffffff00Molten Eruption|r > single soaks{/p}
+{p2}--------------------
+|cff00ff00<Phase 2>|r
+ -|cffffff00Blistering Twilight|r > run out, dodge tornados
+ -|cffffff00Gloom Conflagration|r > group soak, GTFO
+{tank}Combo: |cffffff00Withering Vuln|r + |cffffff00Shadowlame Burst|r {/p}
+{healer}10s Stacking DoT + (-1%MAXHP) / 2s tick
+|cffee5555Heroic:|r |cffffff00Convergent Eruption|r > single soak + dodge
+
+{p:Xarric,Akaitaka,Bendra,Raevyne}--------------------
+RL Notes:
+ -Normal strat: burn adds together?
+{/p}
