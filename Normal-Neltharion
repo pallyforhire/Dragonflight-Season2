@@ -1,0 +1,34 @@
+Echo of Neltharian
+--------------------------------------------------------
+|cffff7c0a>>HERO ON PULL<<|r
+1. Walls break LOS
+2. |cffffff00Umbral Annihilation|r > P2 enrage
+3. |cffffff00Rushing Darkness|r > take to edge of room
+{tank}Swap 1x |cffffff00Calamitous Strike|r
+
+{H}--------------------
+Healers:
+ -|cffffff00Shatter|r > stacking raid dot for each broken wall
+ -|cffffff00Volcanic Heart|r > Bombs, stacking aoe DoT
+ -|cffffff00Umbral Annihilation|r > P2 ramping raid dmg
+ -Once active, P2 adds pulse raid dmg until dead
+--------------------{/H}
+
+{p1}|cff00ff00<Phase 1> 100-60%|r
+ -Bombs > take out of raid
+{tank}|cffffff00Calamitous Strike|r > swap, use to break walls{/p}
+
+{p2}|cff00ff00<Phase 2> Kill 3 adds|r
+ -Boss immunes at 35%
+{tank}|cffffff00Sunder Shadow|r > use to break through walls
+|cffee5555Heroic:|r Shielded adds require Corrupted players
+{dps}DO NOT AOE CORRUPTED PLAYERS{/p}
+
+{p3}|cff00ff00<Phase 3>|r
+ -Cleave adds
+ -|cffffff00Ebon Destruction|r > stand in portals
+{/p}
+{p:Xarric,Akaitaka,Bendra,Raevyne,Xarvok}--------------------
+RL Notes:
+ -Possibly 3 tank fight?
+{/p}
