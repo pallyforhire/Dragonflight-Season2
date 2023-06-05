@@ -1,9 +1,10 @@
 Amalgamation Chamber
 --------------------------------------------------------
-|cffff7c0a--HERO IN P2--|r
-1. Get adds to 50% at same time
-2. Swap sides to manage stacks
-3. Keep Adds more than 25yds apart
+|cffff7c0a>>HERO IN P2<<|r
+1. Odds LEFT | Evens RIGHT
+2. Get adds to 50% at same time
+3. Raid > demonic gate to switch sides
+4. Keep Adds more than 25yds apart 
 
 {p1}--------------------
 |cff00ff00<Phase 1>|r
@@ -22,9 +23,9 @@ Amalgamation Chamber
  -|cffffff00Gloom Conflagration|r > group soak, GTFO
 {tank}Combo: |cffffff00Withering Vuln|r + |cffffff00Shadowlame Burst|r {/p}
 {healer}10s Stacking DoT + (-1%MAXHP) / 2s tick
-|cffee5555Heroic:|r |cffffff00Convergent Eruption|r > single soak + dodge
+|cffee5555Heroic:|r |cffffff00Convergent Eruption|r > small soak + dodge
 
-{p:Xarric,Akaitaka,Bendra,Raevyne}--------------------
+{p:Xarric,Akaitaka,Bendra,Raevyne,Xarvok}--------------------
 RL Notes:
  -Normal strat: burn adds together?
 {/p}
