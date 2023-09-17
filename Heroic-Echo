@@ -1,0 +1,39 @@
+Echo of Neltharian
+--------------------------------------------------------
+|cffff7c0a>>HERO IN P3<<|r
+1. Lines > OUTSIDE
+2. Bombs > INSIDE
+{H}--------------------
+Healers:
+ -|cffffff00Shatter|r > stacking raid dot for each broken wall
+ -|cffffff00Volcanic Heart|r > Bombs, stacking aoe DoT
+ -|cffffff00Umbral Annihilation|r > P2 ramping raid dmg
+ -Once active, P2 adds pulse raid dmg until dead{/H}
+{p1}--------------------
+|cff00ff00<Phase 1> 100-60%|r
+ -More Lines + Bombs
+{tank}|cffffff00Calamitous Strike|r > swap, break walls
+{time:0:30} Clariene {spell:77761}{/p}
+{p2}--------------------
+|cff00ff00<Phase 2> Kill 3 adds|r
+ -Boss immunes at 35%
+{tank}|cffffff00Sunder Shadow|r > swap, break walls
+|cffee5555Heroic:|r Shielded adds require Corrupted players
+
+Annihilation(2) |cffc41e3aShadopart|r {spell:51052} + |cffc41e3aZelegith|r {spell:51052}
+Annihilation(3) Personals + |cfff48cbaUmbraa|r {spell:31821}
+Annihilation(4) |cff33937fBivrye|r {spell:363534} + Typer {spell:15286} + |cffc69b6dFeix|r {spell:97462}{/p}
+{p3}--------------------
+|cff00ff00<Phase 3>|r
+ -Stack on tanks
+ -|cffffff00Ebon Destruction|r > stand in ALL portals
+
+Portals(1) |cfff48cbaUmbraa|r{spell:1022} >|cffff7c0aClariene|r
+--|cffaad372Raven|r/|cffaad372Tajmer|r{spell:34477} + |cfffff468Cyxr|r{spell:57934} >|cffc41e3aShado|r
+Portals(2) |cfff48cbaXarric|r{spell:1022} > |cffff7c0aRuns|r
+--|cffaad372Raven|r/|cffaad372Tajmer|r{spell:34477} + |cfffff468Cyxr|r{spell:57934} > |cfff48cbaXarric|r
+{/p}
+{p:Xarric,Akaitaka,Bendra,Raevyne,Xarvok}--------------------
+RL Notes:
+ -Bombs move through gap LAST
+ -Lines use mvmt buff to get through gap fast{/p}
