@@ -1,0 +1,28 @@
+Zaqali Assault
+--------------------------------------------------------
+|cffff7c0a>>HERO IN P2<<|r
+1. Do not let adds reach the door
+2. Do not let adds reach the door
+3. Do not let adds reach the door
+
+Odds >> FAR Platform
+Evens >> NEAR Platform
+
+{p1}|cff00ff00<Phase 1>|r
+ -|cffff00ffMagma Mystic|r (Shields) are priority
+ -Use rocks/rubble for add control
+ -Avoid boss landing aoe and resulting swirlies
+ -|cffffff00Blazing Spear|r > drop away from raid, GTFO
+{tank}|cffffff00Heavy Cudgel|r > aoe frontal, follows you
+{healer}Shields pulse stacking raid damage while up
+{/p}
+
+{p2}|cff00ff00<Phase 2> 25%|r
+ -|cffff0000First soak|r: ODDS / |cffff0000Second soak|r EVENS
+ -|cffffff00Desperate Immolation|r > heals to 50%
+ -|cffffff00Catastrophic Slam|r > Group soak
+ -|cffffff00Flaming Cudgel|r > aoe frontal, spread for circles
+{/p}
+{p:Xarric,Akaitaka,Bendra,Raevyne,Xarvok}--------------------
+RL Notes:
+{/p}
