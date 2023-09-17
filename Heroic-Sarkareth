@@ -1,0 +1,44 @@
+Scalecommander Sarkareth
+--------------------------------------------------------
+|cffff7c0a>>HERO IN P3<<|r
+1. Oblivion > 5+ stacks just go down
+2. P1 = tight stacks // P2 = loose stacks
+3. No snap dispels
+
+{p1}|cff00ff00<Phase 1> 1:50 OR 60%|r
+ -|cffffff00Searing Breath|r > bait, MDPS stack on {skull}
+  -Breath 1 > Group 1 + 2
+  -Breath 2 > Group 3 + 4
+  -Breath 3 > Healers + stragglers
+ -|cffffff00Scorching Bomb|r > bait, RDPS stack on {moon}
+
+|cff0070ddAkaitaka|r {spell:192077} pre-pull
+{time:0:04}|cffc41e3aZelegith|r {spell:145629}
+{time:0:25}Typerionicus + Iribus {spell:15286}
+{time:0:30}|cffff7c0aRunslikedeer|r{spell:77761} 
+{time:1:42}|cffc69b6dYizzie|r {spell:97462} + |cffc41e3aShadopart|r {spell:145629}
+{time:1:58}|cffff7c0aClariene|r{spell:77761}{/p}
+
+{p2}|cff00ff00<Phase 2> 4:00 OR 40%|r
+ -|cffffff00Abyssal Breath|r > bait, RDPS stack on {moon}
+ -|cffffff00Infinite Duress|r > to nearest edge
+ -See a bomb, take a bomb
+Interrupt Rotation: |cff0070ddAkai|r > |cff33937fKaiid|r > |cff33937fTyrana|r
+{healer}No snap dispels, 3-2-1 count
+{time:4:20}Group 1 + 2 GO DOWN!{/p}
+
+{p3}|cff00ff00<Phase 3>|r
+ -Stack pillars at {circle}
+ -Infinite Duress to {triangle}
+ -2x Brown swirlies to go down
+ -Soak 1st |cffffff00Black Hole|r, others get sacrificed
+ {tank}Tank bombs go below
+{time:4:40}Pop HERO
+{time:5:25}Group 1 + 2 GO DOWN{/p}
+
+{p:Xarric,Akaitaka,Bendra,Raevyne,Xarvok}--------------------
+RL Notes:
+ -Drop |cffffff00Echoing Howl|r before |cffffff00Glittering Surge|r
+ -RDPS stack {moon} // MDPS stack {skull}
+ -P2 adds become immune to CC at 5x |cffffff00Ebon Might|r
+{/p}
