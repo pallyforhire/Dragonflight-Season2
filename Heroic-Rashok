@@ -1,0 +1,30 @@
+Rashok
+--------------------------------------------------------
+|cffff7c0a>>HERO ON PULL<<|r
+1. Raid stacks directly behind Rashok
+2. |cffffff00Searing Slam|r > take to wall > |cffffff00Lava Vortex|r
+3.Do NOT touch Lava Vortex with Slam
+{tank}Place Big Soak over raid
+{healer}|cffffff00Searing Slam|r = +20% raid dmg per Vortex
+
+Externals rotation:
+|cfff48cbaUmbraa|r
+|cff33937fBivyre|r
+|cffff7c0aRunslikedeer|r
+|cffff7c0aClariene|r
+
+Cooldowns:
+{time:0:21}|cffc41e3aShadopart|r {spell:165775}
+{time:1:10} |cffc41e3aZelegith|r {spell:165775}
+{time:1:45} |cfff48cbaUmbraa|r {spell:31821} |cffff7c0aRunslikedeer|r {spell:740}
+{time:2:30}|cffc41e3aShadopart|r {spell:165775}
+{time:3:15} |cffc41e3aZelegith|r {spell:165775}
+{time:4:00} |cff33937fBivyre|r {spell:363534} |cffff7c0aClariene|r {spell:740} |cffc69b6dYizzie|r {spell:97462}
+
+
+{p:Xarric,Akaitaka,Bendra,Raevyne,Xarvok}--------------------
+RL Notes:
+ -Loot spec for healer trinket if possible, do not roll
+ -Enrages after 3(N)/2(H) drains
+ -Save some healing CD's for later Searing Slams?
+{/p}
